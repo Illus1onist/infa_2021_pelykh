@@ -8,7 +8,7 @@ FPS = 30
 t = 0.45 # масштаб
 screen = pygame.display.set_mode((int(2500*t), int(1666*t)))
 
-## библиотека цветов
+## библиотека цветова
 
 yellow_sky_up = (254, 213, 162)
 yellow_sky_middle = (254, 213, 148)
